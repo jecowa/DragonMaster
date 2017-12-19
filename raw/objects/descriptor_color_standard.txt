@@ -2,14 +2,14 @@ descriptor_color_standard
 
 [OBJECT:DESCRIPTOR_COLOR]
 
-[COLOR:AMBER] 
-	[NAME:amber] 
-	[WORD:AMBER] 
-	[RGB:255:191:0] 
+[COLOR:AMBER]
+	[NAME:amber]
+	[WORD:AMBER]
+	[RGB:255:191:0]
 
 [COLOR:AMETHYST]
-	[NAME:amethyst] 
-	[WORD:AMETHYST] 
+	[NAME:amethyst]
+	[WORD:AMETHYST]
 	[RGB:139:114:241]
 
 [COLOR:AQUA]
@@ -83,12 +83,12 @@ descriptor_color_standard
 	[RGB:138:51:36]
 
 [COLOR:CARDINAL]
-	[NAME:Radical Red]
+	[NAME:cardinal]
 	[WORD:CARDINAL_COLOR]
 	[RGB:255:73:107]
 
 [COLOR:CARMINE]
-	[NAME:Fire Brick Red]
+	[NAME:carmine]
 	[WORD:CARMINE]
 	[RGB:178:34:34]
 
@@ -98,7 +98,7 @@ descriptor_color_standard
 	[RGB:0:123:167]
 
 [COLOR:CHARCOAL]
-	[NAME:Colosseum Marble]
+	[NAME:charcoal]
 	[WORD:CHARCOAL]
 	[RGB:99:94:101]
 
@@ -113,17 +113,17 @@ descriptor_color_standard
 	[RGB:205:92:92]
 
 [COLOR:CHOCOLATE]
-	[NAME:Mango Tango]
+	[NAME:chocolate]
 	[WORD:CHOCOLATE]
 	[RGB:255:130:67]
 
 [COLOR:CINNAMON]
-	[NAME:Cranberry]
+	[NAME:cinnamon]
 	[WORD:CINNAMON]
 	[RGB:184:69:67]
 
 [COLOR:CLEAR]
-	[NAME:Skyscraper Gray]
+	[NAME:clear]
 	[WORD:CLEAR]
 	[RGB:136:143:159]
 
@@ -143,17 +143,17 @@ descriptor_color_standard
 	[RGB:255:253:208]
 
 [COLOR:CRIMSON]
-	[NAME:Holiday Red]
+	[NAME:crimson]
 	[WORD:CRIMSON]
 	[RGB:224:73:87]
 
 [COLOR:DARK_BLUE]
-	[NAME:MoonStruck]
+	[NAME:dark blue]
 	[WORD:BLUE]
 	[RGB:68:103:161]
 
 [COLOR:DARK_BROWN]
-	[NAME:Pine Cone]
+	[NAME:dark brown]
 	[WORD:BROWN]
 	[RGB:102:73:61]
 
@@ -163,12 +163,12 @@ descriptor_color_standard
 	[RGB:152:105:96]
 
 [COLOR:DARK_GREEN]
-	[NAME:Shock Green]
+	[NAME:dark green]
 	[WORD:GREEN]
 	[RGB:0:119:55]
 
 [COLOR:DARK_INDIGO]
-	[NAME:Lavender]
+	[NAME:dark indigo]
 	[WORD:INDIGO]
 	[RGB:84:62:146]
 
@@ -178,12 +178,12 @@ descriptor_color_standard
 	[RGB:85:104:50]
 
 [COLOR:DARK_PEACH]
-	[NAME:CedarWood]
+	[NAME:dark peach]
 	[WORD:PEACH]
 	[RGB:179:129:120]
 
 [COLOR:DARK_PINK]
-	[NAME:Wild Strawberry]
+	[NAME:dark pink]
 	[WORD:PINK]
 	[RGB:255:67:164]
 
@@ -227,7 +227,7 @@ descriptor_color_standard
 	[RGB:238:220:130]
 
 [COLOR:FUCHSIA]
-	[NAME:Razzle Dazzle Rose]
+	[NAME:fuchsia]
 	[WORD:FUCHSIA]
 	[RGB:255:72:208]
 
@@ -248,7 +248,7 @@ descriptor_color_standard
 	[RGB:218:165:32]
 
 [COLOR:GRAY]
-	[NAME:SmokeStack]
+	[NAME:gray]
 	[WORD:GRAY]
 	[RGB:120:124:13]
 
@@ -264,17 +264,17 @@ descriptor_color_standard
 	[RGB:173:255:47]
 
 [COLOR:HELIOTROPE]
-	[NAME:Medium Orchid]
+	[NAME:heliotrope]
 	[WORD:HELIOTROPE]
 	[RGB:186:85:211]
- 
+
 [COLOR:INDIGO]
-	[NAME:Valerie]
+	[NAME:indigo]
 	[WORD:INDIGO]
 	[RGB:108:45:126]
 
 [COLOR:IVORY]
-	[NAME:Lacey Pearl]
+	[NAME:ivory]
 	[WORD:IVORY]
 	[RGB:228:224:215]
 
@@ -284,12 +284,12 @@ descriptor_color_standard
 	[RGB:0:168:107]
 
 [COLOR:LAVENDER]
-	[NAME:Cadet Blue]
+	[NAME:lavender]
 	[WORD:LAVENDER]
 	[RGB:176:183:198]
 
 [COLOR:LAVENDER_BLUSH]
-	[NAME:Savory Cream]
+	[NAME:lavender blush]
 	[WORD:LAVENDER]
 	[RGB:232:218:211]
 
@@ -299,7 +299,7 @@ descriptor_color_standard
 	[RGB:253:233:16]
 
 [COLOR:LIGHT_BLUE]
-	[NAME:pool]
+	[NAME:light blue]
 	[WORD:BLUE]
 	[RGB:143:210:218]
 
@@ -309,7 +309,7 @@ descriptor_color_standard
 	[RGB:180:103:77]
 
 [COLOR:LILAC]
-	[NAME:Orchid]
+	[NAME:lilac]
 	[WORD:LILAC]
 	[RGB:218:112:214]
 
@@ -319,7 +319,7 @@ descriptor_color_standard
 	[RGB:204:255:0]
 
 [COLOR:MAHOGANY]
-	[NAME:Brick Red]
+	[NAME:mahogany]
 	[WORD:MAHOGANY]
 	[RGB:203:65:84]
 
@@ -329,7 +329,7 @@ descriptor_color_standard
 	[RGB:128:0:0]
 
 [COLOR:MAUVE]
-	[NAME:Medium Violet Red]
+	[NAME:mauve]
 	[WORD:MAUVE]
 	[RGB:199:21:133]
 
@@ -340,7 +340,7 @@ descriptor_color_standard
 	[RGB:145:95:109]
 
 [COLOR:MIDNIGHT_BLUE]
-	[NAME:Star Spangled Blue]
+	[NAME:midnight blue]
 	[WORD:BLUE]
 	[RGB:40:120:181]
 
@@ -360,7 +360,7 @@ descriptor_color_standard
 	[RGB:204:119:34]
 
 [COLOR:OLIVE]
-	[NAME:Clover Medow]
+	[NAME:olive]
 	[WORD:OLIVE]
 	[RGB:106:168:82]
 
@@ -370,33 +370,33 @@ descriptor_color_standard
 	[RGB:255:165:0]
 
 [COLOR:PALE_BLUE]
-	[NAME:Light Sky Blue]
+	[NAME:pale blue]
 	[WORD:BLUE]
 	[RGB:135:206:250]
 
 [COLOR:PALE_BROWN]
-	[NAME: Dusty Ranch Brown]
+	[NAME:pale brown]
 	[WORD:BROWN]
 	[RGB:152:118:107]
 
 [COLOR:PALE_CHESTNUT]
-	[NAME:Willow Wood]
-	[WORD:WILLOW]
+	[NAME:pale chestnut]
+	[WORD:CHESTNUT]
 	[RGB:234:188:136]
 
 [COLOR:PALE_PINK]
-	[NAME:Peach]
+	[NAME:pale pink]
 	[WORD:PINK]
 	[RGB:255:207:171]
 
 [COLOR:PEACH]
-	[NAME:OakWood]
+	[NAME:peach]
 	[WORD:PEACH]
 	[RGB:182:119:78]
 
 [COLOR:PEARL]
-	[NAME:MapleWood]
-	[WORD:Almond]
+	[NAME:pearl]
+	[WORD:PEARL]
 	[RGB:222:190:149]
 
 [COLOR:PERIWINKLE]
@@ -405,13 +405,13 @@ descriptor_color_standard
 	[RGB:197:208:230]
 
 [COLOR:PINE_GREEN]
-	[NAME:pine]
+	[NAME:pine green]
 	[WORD:GREEN]
 	[WORD:PINE]
 	[RGB:3:109:86]
 
 [COLOR:PINK]
-	[NAME:Light Pink]
+	[NAME:pink]
 	[WORD:PINK]
 	[RGB:255:182:193]
 
@@ -421,17 +421,17 @@ descriptor_color_standard
 	[RGB:149:69:133]
 
 [COLOR:PUCE]
-	[NAME:WaterMelon]
+	[NAME:puce]
 	[WORD:PUCE]
 	[RGB:230:101:166]
 
 [COLOR:PUMPKIN]
-	[NAME:Outrageous Orange]
+	[NAME:pumpkin]
 	[WORD:PUMPKIN]
 	[RGB:255:110:74]
 
 [COLOR:PURPLE]
-	[NAME:petal]
+	[NAME:purple]
 	[WORD:PURPLE]
 	[RGB:173:90:255]
 
@@ -446,7 +446,7 @@ descriptor_color_standard
 	[RGB:255:0:0]
 
 [COLOR:RED_PURPLE]
-	[NAME:Jazzberry Jam]
+	[NAME:red-purple]
 	[WORD:RED]
 	[WORD:PURPLE]
 	[RGB:202:55:103]
@@ -457,7 +457,7 @@ descriptor_color_standard
 	[RGB:244:194:194] went with tea rose
 
 [COLOR:RUSSET]
-	[NAME:Storm Surf]
+	[NAME:russet]
 	[WORD:RUSSET]
 	[RGB:115:129:135]
 
@@ -472,7 +472,7 @@ descriptor_color_standard
 	[RGB:244:196:48]
 
 [COLOR:SCARLET]
-	[NAME:Candy Orange]
+	[NAME:scarlet]
 	[WORD:SCARLET]
 	[RGB:254:76:30]
 
@@ -489,7 +489,7 @@ descriptor_color_standard
 	[RGB:112:66:20]
 
 [COLOR:SILVER]
-	[NAME:Sea Sprite]
+	[NAME:silver]
 	[WORD:SILVER]
 	[RGB:164:173:179]
 
@@ -514,7 +514,7 @@ descriptor_color_standard
 	[RGB:210:180:140]
 
 [COLOR:TAUPE_DARK]
-	[NAME:Dark Mahogany]
+	[NAME:dark taupe]
 	[WORD:TAUPE]
 	[RGB:112:72:73]
 
@@ -525,7 +525,7 @@ descriptor_color_standard
 	[RGB:139:133:137]
 
 [COLOR:TAUPE_MEDIUM]
-	[NAME:Pale Brown]
+	[NAME:taupe]
 	[WORD:TAUPE]
 	[RGB:152:118:84]
 
@@ -536,7 +536,7 @@ descriptor_color_standard
 	[RGB:80:64:77]
 
 [COLOR:TAUPE_PALE]
-	[NAME:PineWood]
+	[NAME:pale taupe]
 	[WORD:TAUPE]
 	[RGB:238:202:157]
 
@@ -546,7 +546,7 @@ descriptor_color_standard
 	[RGB:144:93:93]
 
 [COLOR:TAUPE_SANDY]
-	[NAME:sand]
+	[NAME:sandy taupe]
 	[WORD:TAUPE]
 	[RGB:182:149:68]
 
@@ -566,7 +566,7 @@ descriptor_color_standard
 	[RGB:227:66:52]
 
 [COLOR:VIOLET]
-	[NAME:Slate Blue]
+	[NAME:violet]
 	[WORD:VIOLET]
 	[RGB:106:90:205]
 
@@ -585,193 +585,3 @@ descriptor_color_standard
 	[WORD:GREEN]
 	[WORD:YELLOW]
 	[RGB:154:205:50]
-
-[COLOR:SUNSETORANGE]
-	[NAME:SUNSETORANGE]
-	[WORD:orange]
-	[RGB:251:183:100]
-
-[COLOR:REDORANGE]
-	[NAME:REDORANGE]
-	[WORD:orange]
-	[RGB:248:195:129]
-
-[COLOR:ORANGERED]
-	[NAME:ORANGERED]
-	[WORD:orange]
-	[RGB:228:161:90]
-
-[COLOR:DARKORANGE]
-	[NAME:DARKORANGE]
-	[WORD:orange]
-	[RGB:255:140:0]
-
-[COLOR:DARKKHAKI]
-	[NAME:DARKKHAKI]
-	[WORD:orange]
-	[RGB:189:183:107]
-
-[COLOR:MUSTARD]
-	[NAME:MUSTARD]
-	[WORD:orange]
-	[RGB:215:161:73]
-
-[COLOR:KAPOKWOOD]
-	[NAME:Kapok Wood]
-	[WORD:orange]
-	[RGB:208:154:105]
-
-[COLOR:MANILAGREEN]
-	[NAME:MANILAGREEN]
-	[WORD:orange]
-	[RGB:132:134:97]
-
-[COLOR:MANILALIGHT]
-	[NAME:MANILALIGHT]
-	[WORD:orange]
-	[RGB:165:167:120]
-
-[COLOR:LIMEGREEN]
-	[NAME:LIMEGREEN]
-	[WORD:orange]
-	[RGB:50:205:50]
-
-[COLOR:FORESTGREEN]
-	[NAME:FORESTGREEN]
-	[WORD:orange]
-	[RGB:34:139:34]
-
-[COLOR:MALACHITEDARK]
-	[NAME:MALACHITEDARK]
-	[WORD:orange]
-	[RGB:46:132:105]
-
-[COLOR:BLUEVIOLET]
-	[NAME:BLUEVIOLET]
-	[WORD:orange]
-	[RGB:164:137:110]
-
-[COLOR:VIVIDVIOLET]
-	[NAME:VIVIDVIOLET]
-	[WORD:orange]
-	[RGB:194:170:134]
-
-[COLOR:STEELBLUE]
-	[NAME:STEELBLUE]
-	[WORD:orange]
-	[RGB:223:175:127]
-
-[COLOR:CORNFLOWERBLUE]
-	[NAME:CORNFLOWERBLUE]
-	[WORD:orange]
-	[RGB:204:162:114]
-
-[COLOR:MTEVEREST]
-	[NAME:MTEVEREST]
-	[WORD:orange]
-	[RGB:188:138:96]
-
-[COLOR:MTFUJI]
-	[NAME:MTFUJI]
-	[WORD:orange]
-	[RGB:216:156:106]
-
-[COLOR:DOLPHINES]
-	[NAME:DOLPHINES]
-	[WORD:orange]
-	[RGB:223:153:101]
-
-[COLOR:AQUATWO]
-	[NAME:AQUATWO]
-	[WORD:orange]
-	[RGB:117:29:15]
-
-[COLOR:PACIFICBLUE]
-	[NAME:PACIFICBLUE]
-	[WORD:orange]
-	[RGB:160:85:53]
-
-[COLOR:WATERSPOUT]
-	[NAME:WATERSPOUT]]
-	[WORD:orange]
-	[RGB:135:149:156]
-
-[COLOR:VOLCANICASHE]
-	[NAME:VOLCANICASHE]
-	[WORD:orange]
-	[RGB:94:101:112]
-
-[COLOR:HEARTHSTONEBROWN]
-	[NAME:HEARTHSTONEBROWN]
-	[WORD:orange]
-	[RGB:89:71:63]
-
-[COLOR:STARDUST]
-	[NAME:STARDUST]
-	[WORD:orange]
-	[RGB:139:125:113]
-
-[COLOR:ELEPHANTGRAY]
-	[NAME:ELEPHANTGRAY]
-	[WORD:orange]
-	[RGB:173:163:158]
-
-[COLOR:RIVERBED]
-	[NAME:RIVERBED]
-	[WORD:orange]
-	[RGB:156:154:146]
-
-[COLOR:SILVERISH]
-	[NAME:SILVERISH]
-	[WORD:orange]
-	[RGB:205:197:194]
-
-[COLOR:BIRCHWOOD]
-	[NAME:Birch Wood]
-	[WORD:Birch]
-	[RGB:253:224:184]
-
-[COLOR:GOLDN]
-	[NAME:GOLDN]
-	[WORD:orange]
-	[RGB:188:96:59]
-
-[COLOR:DARKCHOCOLATEBROWN]
-	[NAME:DARKCHOCOLATEBROWN]
-	[WORD:orange]
-	[RGB:102:84:82]
-
-[COLOR:CHESTNUTWOOD]
-	[NAME:Chestnut Wood]
-	[WORD:Chestnut]
-	[RGB:158:84:39]
-
-[COLOR:BONE]
-	[NAME:BONE]
-	[WORD:orange]
-	[RGB:247:234:218]
-
-[COLOR:MAHOGANYWOOD]
-	[NAME:MahoganyWood]
-	[WORD:orange]
-	[RGB:176:69:15]
-
-[COLOR:TOFFEE]
-	[NAME:TOFFEE]
-	[WORD:orange]
-	[RGB:199:147:110]
-
-[COLOR:BEAVER]
-	[NAME:BEAVER]
-	[WORD:orange]
-	[RGB:159:129:112]
-
-[COLOR:MISCTYRW]
-	[NAME:DARKTAN]
-	[WORD:orange]
-	[RGB:145:129:81]
-
-[COLOR:DARKTAN]
-	[NAME:DARKTAN]
-	[WORD:orange]
-	[RGB:157:37:39]

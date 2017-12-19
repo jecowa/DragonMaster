@@ -2,9 +2,53 @@ item_tool
 
 [OBJECT:ITEM]
 
--------------------------------------------------------------------------------------------
--- Tools (Usable as Weapons)	-----------------------------------------------------------
--------------------------------------------------------------------------------------------
+[ITEM_TOOL:ITEM_TOOL_CAULDRON]
+[NAME:cauldron:cauldrons]
+[VALUE:50]
+[METAL_MAT]
+[TOOL_USE:LIQUID_COOKING]
+[TILE:6]
+[SIZE:4000]
+[MATERIAL_SIZE:6]
+[CONTAINER_CAPACITY:100000]
+
+[ITEM_TOOL:ITEM_TOOL_LADLE]
+[NAME:ladle:ladles]
+[VALUE:10]
+[METAL_MAT]
+[TOOL_USE:LIQUID_SCOOP]
+[TILE:8]
+[SIZE:100]
+[MATERIAL_SIZE:1]
+
+[ITEM_TOOL:ITEM_TOOL_BOWL]
+[NAME:bowl:bowls]
+[VALUE:10]
+[HARD_MAT]
+[TOOL_USE:MEAL_CONTAINER]
+[TILE:9]
+[SIZE:100]
+[MATERIAL_SIZE:1]
+[CONTAINER_CAPACITY:3000]
+
+[ITEM_TOOL:ITEM_TOOL_MORTAR]
+[NAME:mortar:mortars]
+[VALUE:10]
+[HARD_MAT]
+[TOOL_USE:GRIND_POWDER_RECEPTACLE]
+[TILE:10]
+[SIZE:100]
+[MATERIAL_SIZE:1]
+[CONTAINER_CAPACITY:1000]
+
+[ITEM_TOOL:ITEM_TOOL_PESTLE]
+[NAME:pestle:pestles]
+[VALUE:10]
+[HARD_MAT]
+[TOOL_USE:GRIND_POWDER_GRINDER]
+[TILE:11]
+[SIZE:20]
+[MATERIAL_SIZE:1]
 
 [ITEM_TOOL:ITEM_TOOL_KNIFE_CARVING]
 [NAME:carving knife:carving knives]
@@ -93,61 +137,6 @@ item_tool
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:15:400:strike:strikes:handle:1000]
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
-
-
-??? Stone Axe ???
-
--------------------------------------------------------------------------------------------
--- Tools			-----------------------------------------------------------
--------------------------------------------------------------------------------------------
-
-[ITEM_TOOL:ITEM_TOOL_CAULDRON]
-[NAME:cauldron:cauldrons]
-[VALUE:50]
-[METAL_MAT]
-[TOOL_USE:LIQUID_COOKING]
-[TILE:6]
-[SIZE:4000]
-[MATERIAL_SIZE:6]
-[CONTAINER_CAPACITY:100000]
-
-[ITEM_TOOL:ITEM_TOOL_LADLE]
-[NAME:ladle:ladles]
-[VALUE:10]
-[METAL_MAT]
-[TOOL_USE:LIQUID_SCOOP]
-[TILE:8]
-[SIZE:100]
-[MATERIAL_SIZE:1]
-
-[ITEM_TOOL:ITEM_TOOL_BOWL]
-[NAME:bowl:bowls]
-[VALUE:10]
-[HARD_MAT]
-[TOOL_USE:MEAL_CONTAINER]
-[TILE:9]
-[SIZE:100]
-[MATERIAL_SIZE:1]
-[CONTAINER_CAPACITY:3000]
-
-[ITEM_TOOL:ITEM_TOOL_MORTAR]
-[NAME:mortar:mortars]
-[VALUE:10]
-[HARD_MAT]
-[TOOL_USE:GRIND_POWDER_RECEPTACLE]
-[TILE:10]
-[SIZE:100]
-[MATERIAL_SIZE:1]
-[CONTAINER_CAPACITY:1000]
-
-[ITEM_TOOL:ITEM_TOOL_PESTLE]
-[NAME:pestle:pestles]
-[VALUE:10]
-[HARD_MAT]
-[TOOL_USE:GRIND_POWDER_GRINDER]
-[TILE:11]
-[SIZE:20]
-[MATERIAL_SIZE:1]
 
 [ITEM_TOOL:ITEM_TOOL_NEST_BOX]
 [NAME:nest box:nest boxes]
@@ -299,4 +288,3 @@ item_tool
 [SIZE:1000]
 [MATERIAL_SIZE:6]
 [CONTAINER_CAPACITY:100000]
-

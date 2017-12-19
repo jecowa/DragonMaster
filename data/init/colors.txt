@@ -1,3 +1,6 @@
+DragonMaster's color scheme
+modified from CowThings's dark color scheme
+
 [BLACK_R:31]
 [BLACK_G:29]
 [BLACK_B:38]
