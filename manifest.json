@@ -3,7 +3,7 @@
     "url": "http://www.bay12forums.com/smf/index.php?topic=168704.0",
     "content_version": "0.21.2",
     "df_min_version": "0.44.01",
-    "df_max_version": "0.44.03",
+    "df_max_version": "",
     "folder_prefix": "DragonMaster",
     "title": "DragonMaster 16x",
     "tooltip": "170 colors with a tile for every Stone, Flux, & Ore (Requires TWBT)"
